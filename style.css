@@ -74,7 +74,57 @@ img {
     font-weight: bold; 
 }
 
+#phrasetwo {
+    color: white; 
+    font-size: 1.3em; 
+    font-family: 'Oswald', sans-serif;
+    margin-left: 100px;  
+    margin-right: 50px; 
+    margin-bottom: 0; 
+    text-transform: uppercase; 
+    letter-spacing: 0; 
+    line-height: 20px; 
+    font-weight: bold; 
+}
+
+#phrasethree {
+    color: white; 
+    font-size: 1.2em; 
+    font-family: 'Oswald', sans-serif;
+    margin-left: 100px;  
+    margin-right: 50px; 
+    margin-bottom: 0; 
+    text-transform: uppercase; 
+    letter-spacing: 0; 
+    line-height: 20px; 
+    font-weight: bold; 
+}
+
 #name {
+    color: white; 
+    font-size: .1em; 
+    font-family: 'Oswald', sans-serif;
+    margin-top: 7px; 
+    margin-left: 100px;  
+    margin-right: 50px; 
+    margin-bottom: 0; 
+    letter-spacing: .5px; 
+    text-transform: uppercase; 
+}
+
+#nametwo {
+    color: white; 
+    font-size: .1em; 
+    font-family: 'Oswald', sans-serif;
+    margin-top: 6px; 
+    margin-left: 100px;  
+    margin-right: 50px; 
+    margin-bottom: 0; 
+    letter-spacing: .5px; 
+    text-transform: uppercase; 
+}
+
+#namethree {
     color: white; 
     font-size: .1em; 
     font-family: 'Oswald', sans-serif;
@@ -131,7 +181,41 @@ i {
         line-height: 20px; 
     }
 
+    #phrasetwo {
+        font-size: 1.3em; 
+        margin-left: 100px;  
+        margin-right: 50px; 
+        margin-bottom: 0; 
+        letter-spacing: 0; 
+        line-height: 20px; 
+    }
+
+        #phrasethree {
+        font-size: 1.4em; 
+        margin-left: 100px;  
+        margin-right: 50px; 
+        margin-bottom: 0; 
+        letter-spacing: 0; 
+        line-height: 20px; 
+    }
+
     #name {
+        font-size: .1em; 
+        margin-top: 10px; 
+        margin-left: 100px;  
+        margin-right: 50px; 
+        letter-spacing: .5px; 
+    }
+
+        #nametwo {
+        font-size: .1em; 
+        margin-top: 10px; 
+        margin-left: 100px;  
+        margin-right: 50px; 
+        letter-spacing: .5px; 
+    }
+
+        #namethree {
         font-size: .1em; 
         margin-top: 10px; 
         margin-left: 100px;  
@@ -168,17 +252,54 @@ i {
     }
 
     #phrase {
-        font-size: 1.5em; 
+        font-size: 1.4em; 
+        margin-top: 15px;
         margin-left: 120px; 
         margin-right: 50px; 
-        margin-bottom: 0; 
+        /*margin-bottom: 0; */
+        letter-spacing: -1px; 
+        line-height: 25px; 
+    }
+
+        #phrasetwo {
+        font-size: 1.6em; 
+        margin-left: 120px; 
+        margin-right: 50px; 
+        margin-top: 15px; 
+        /*margin-bottom: 0; */
+        letter-spacing: -1px; 
+        line-height: 25px; 
+    }
+
+        #phrasethree {
+        font-size: 1.6em; 
+        margin-left: 120px; 
+        margin-right: 50px; 
+        margin-top: 15px; 
+        /*margin-bottom: 0; */
         letter-spacing: -1px; 
         line-height: 25px; 
     }
 
     #name {
         font-size: .1em; 
-        margin-top: 10px; 
+        margin-top: 5px; 
+        margin-left: 120px;  
+        margin-right: 50px; 
+        letter-spacing: .5px; 
+    }
+
+        #nametwo {
+        font-size: .1em; 
+        margin-top: 5px; 
+        margin-left: 120px;  
+        margin-right: 50px; 
+        letter-spacing: .5px; 
+    }
+
+        #namethree {
+        font-size: .1em; 
+        margin-top: 5px; 
         margin-left: 120px;  
         margin-right: 50px; 
         letter-spacing: .5px; 
@@ -224,7 +345,41 @@ i {
         line-height: 33px; 
     }
 
+    #phrasetwo {
+        font-size: 2.3em; 
+        margin-left: 120px; 
+        margin-right: 50px; 
+        margin-bottom: 0; 
+        letter-spacing: 1px; 
+        line-height: 33px; 
+    }
+
+    #phrasethree {
+        font-size: 2.3em; 
+        margin-left: 120px; 
+        margin-right: 50px; 
+        margin-bottom: 0; 
+        letter-spacing: 1px; 
+        line-height: 33px; 
+    }
+
     #name { 
+        font-size: .5em; 
+        margin-top: 8px; 
+        margin-left: 120px;  
+        margin-right: 70px; 
+        letter-spacing: .5px; 
+    }
+
+    #nametwo { 
+        font-size: .5em; 
+        margin-top: 8px; 
+        margin-left: 120px;  
+        margin-right: 70px; 
+        letter-spacing: .5px; 
+    }
+
+    #namethree { 
         font-size: .5em; 
         margin-top: 8px; 
         margin-left: 120px;  
@@ -261,25 +416,62 @@ i {
         width: 150px; 
         height: 100%;  
     }
-
+/* phrase style */
     #phrase {
-        font-size: 2em; 
+        font-size: 2.2em; 
+        margin-left: 170px;  
+        margin-right: 70px; 
+        margin-top: 20px; 
+        margin-bottom: 0; 
+        letter-spacing: -.4px; 
+        line-height: 35px; 
+    }
+
+    #phrasetwo {
+        font-size: 2.5em; 
         margin-left: 170px;  
         margin-right: 70px; 
         margin-bottom: 0; 
         letter-spacing: -.5px; 
-        line-height: 30px; 
+        line-height: 40px; 
     }
 
+    #phrasethree {
+        font-size: 2.5em; 
+        margin-left: 170px;  
+        margin-right: 70px; 
+        margin-bottom: 0; 
+        letter-spacing: -.5px; 
+        line-height: 40px; 
+    }
+
+/* name style */
     #name {
         font-size: .6em; 
-        margin-top: 20px; 
+        margin-top: 15px; 
+        margin-left: 170px;  
+        margin-right: 70px; 
+        letter-spacing: .5px; 
+    }
+
+    #nametwo {
+        font-size: .6em; 
+        margin-top: 23px; 
+        margin-left: 170px;  
+        margin-right: 70px; 
+        letter-spacing: .5px; 
+    }
+
+    #namethree {
+        font-size: .6em; 
+        margin-top: 23px; 
         margin-left: 170px;  
         margin-right: 70px; 
         letter-spacing: .5px; 
     }
 
 }
+/*  -------------media--------  */
 
 @media (min-width: 1439px){
 
@@ -310,22 +502,61 @@ i {
     }
 
     #phrase {
-        font-size: 3.5em; 
+        font-size: 3.1em; 
         margin-left: 170px;  
         margin-right: 70px; 
-        margin-top: 25px; 
+        margin-top: 23px; 
         margin-bottom: 0; 
         letter-spacing: -1px; 
         line-height: 50px; 
         font-weight: bold; 
     }
 
+        #phrasetwo {
+            font-size: 3.5em;
+            margin-left: 170px;  
+            margin-right: 70px; 
+            margin-bottom: 10px; 
+            letter-spacing: 0; 
+            line-height: 50px; 
+            font-weight: bold; 
+        }
+
+        #phrasethree {
+            font-size: 3.5em;
+            margin-left: 170px;  
+            margin-right: 70px; 
+            margin-bottom: 10px; 
+            letter-spacing: 0; 
+            line-height: 50px; 
+            font-weight: bold; 
+        }
+
     #name {
         font-size: .6em; 
         font-family: 'Oswald', sans-serif;
-        margin-top: 20px; 
+        margin-top: 8px; 
         margin-left: 170px;  
         margin-right: 70px; 
         letter-spacing: 1px; 
     }
+
+    #nametwo {
+        font-size: .6em; 
+        font-family: 'Oswald', sans-serif;
+        margin-top: 15px; 
+        margin-left: 170px;  
+        margin-right: 70px; 
+        letter-spacing: 1px; 
+    }
+
+    #namethree {
+        font-size: .6em; 
+        font-family: 'Oswald', sans-serif;
+        margin-top: 15px; 
+        margin-left: 170px;  
+        margin-right: 70px; 
+        letter-spacing: 1px; 
+    }
+
 }
