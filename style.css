@@ -524,25 +524,25 @@ i {
         font-weight: bold; 
     }
 
-        #phrasetwo {
-            font-size: 3.5em;
-            margin-left: 170px;  
-            margin-right: 70px; 
-            margin-bottom: 10px; 
-            letter-spacing: 0; 
-            line-height: 50px; 
-            font-weight: bold; 
-        }
+    #phrasetwo {
+        font-size: 3.5em;
+        margin-left: 170px;  
+        margin-right: 70px; 
+        margin-bottom: 10px; 
+        letter-spacing: 0; 
+        line-height: 50px; 
+        font-weight: bold; 
+    }
 
-        #phrasethree {
-            font-size: 3.5em;
-            margin-left: 170px;  
-            margin-right: 70px; 
-            margin-bottom: 10px; 
-            letter-spacing: 0; 
-            line-height: 50px; 
-            font-weight: bold; 
-        }
+    #phrasethree {
+        font-size: 3.5em;
+        margin-left: 170px;  
+        margin-right: 70px; 
+        margin-bottom: 10px; 
+        letter-spacing: 0; 
+        line-height: 50px; 
+        font-weight: bold; 
+    }
 
     #name {
         font-size: .6em; 
